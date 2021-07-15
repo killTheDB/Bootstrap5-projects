@@ -45,8 +45,8 @@ nav {
 }
 
 .img-menu {
-    height: 200px;
-    width: 200px;
+    height: 600px;
+    width: 400px;
 }
 
 .card-title {
@@ -64,4 +64,23 @@ nav {
 .card:hover {
     box-shadow: 2px 2px 0px 2px rgba(1,1,1,0.2);
     transition: all .5s;
+}
+
+.img-slideshow {
+    min-height: 500px;
+    max-height: 500px;
+}
+
+.img-gallery {
+    width: 400px;
+    height: 300px;
+}
+
+.news {
+    background-color: rgb(202, 228, 245);
+}
+
+.card-img {
+    min-height: 350px;
+    max-height: 350px;
 }
